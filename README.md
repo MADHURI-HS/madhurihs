@@ -41,7 +41,6 @@
 
 ### 💻 My Projects:
 🚧 *Coming soon — adding my projects here shortly!*  
-(*You can later link each project repo with a short description and tech stack.*)
 
 ---
 
