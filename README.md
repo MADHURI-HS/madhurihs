@@ -6,7 +6,6 @@
 ### 💫 About Me:
 - 🔭 I’m currently working on **backend and full-stack development projects**
 - 🌱 I’m learning **Spring Boot, React, and advanced DSA**
-- 💬 Ask me about **C++, Java, Python, and backend development**
 - 🎯 Goal: To secure an **internship or full-time Software Developer role**
 - ⚡ Fun fact: I enjoy solving challenging problems and building scalable systems!
 
