@@ -38,9 +38,23 @@
 
 ---
 
-### 💻 My Projects:
-🚧 *Coming soon — adding my projects here shortly!*  
 
+### 💻 My Projects:
+
+#### 🔹 [Project Name 1](https://github.com/madhurihs/project-repo-name)
+**Tech Stack:** Java, Spring Boot, MySQL  
+📝 Brief description of what the project does (1-2 lines)  
+✨ Key features: Feature 1, Feature 2, Feature 3
+
+#### 🔹 [Project Name 2](https://github.com/madhurihs/project-repo-name-2)
+**Tech Stack:** React, Node.js, MongoDB  
+📝 Brief description of what the project does  
+✨ Key features: Feature 1, Feature 2, Feature 3
+
+#### 🔹 [Project Name 3](https://github.com/madhurihs/project-repo-name-3)
+**Tech Stack:** Python, Flask, SQLite  
+📝 Brief description of what the project does  
+✨ Key features: Feature 1, Feature 2, Feature 3
 ---
 
 ### 📊 GitHub Stats:
