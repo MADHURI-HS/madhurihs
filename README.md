@@ -41,20 +41,60 @@
 
 ### 💻 My Projects:
 
-#### 🔹 [Project Name 1](https://github.com/madhurihs/project-repo-name)
-**Tech Stack:** Java, Spring Boot, MySQL  
-📝 Brief description of what the project does (1-2 lines)  
-✨ Key features: Feature 1, Feature 2, Feature 3
+#### 🏋️ [Fitness Tracking Microservices Application](https://github.com/madhurihs/fitness-app-microservices)
+A production-ready full-stack fitness tracking platform built with microservices architecture. Features AI-powered workout recommendations using Google Gemini API, user activity tracking, and personalized fitness insights.
 
-#### 🔹 [Project Name 2](https://github.com/madhurihs/project-repo-name-2)
-**Tech Stack:** React, Node.js, MongoDB  
-📝 Brief description of what the project does  
-✨ Key features: Feature 1, Feature 2, Feature 3
+**🛠️ Tech Stack:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2.0-3C873A?style=flat-square&logo=auth0&logoColor=white)
 
-#### 🔹 [Project Name 3](https://github.com/madhurihs/project-repo-name-3)
-**Tech Stack:** Python, Flask, SQLite  
-📝 Brief description of what the project does  
-✨ Key features: Feature 1, Feature 2, Feature 3
+**✨ Key Features:**
+- **Microservices Architecture:** Service discovery with Eureka, centralized configuration, and API Gateway
+- **AI Integration:** Google Gemini API for personalized workout recommendations
+- **Event-Driven:** Asynchronous messaging with RabbitMQ for real-time activity processing
+- **Secure Authentication:** OAuth2/PKCE implementation with Keycloak
+- **Modern Frontend:** React with Redux Toolkit and Material-UI
+
+---
+
+#### 📸 [Smart Attendance System with Face Recognition](https://github.com/madhurihs/attendance-tracker)
+An intelligent attendance management system using computer vision and facial recognition. Built with Streamlit for real-time face detection and MySQL for persistent data storage.
+
+**🛠️ Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+**✨ Key Features:**
+- **Real-Time Face Detection:** OpenCV-based facial recognition for instant attendance marking
+- **Interactive Dashboard:** Streamlit-powered UI with live camera feed and attendance analytics
+- **Smart Duplicate Prevention:** Automatic detection to prevent duplicate attendance entries
+- **Data Export:** CSV download functionality for attendance reports
+- **Student Management:** Registration system with image upload and database integration
+
+---
+
+#### ✉️ [AI Email Writer Chrome Extension](https://github.com/madhurihs/email-writer-assistant)
+A Chrome extension and Spring Boot API that generates contextual email replies using AI. Integrates directly with Gmail to provide instant, tone-aware email responses powered by Google Gemini.
+
+**🛠️ Tech Stack:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Chrome](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+**✨ Key Features:**
+- **Gmail Integration:** Content script injects directly into Gmail interface
+- **AI-Powered Responses:** Google Gemini API generates contextually appropriate replies
+- **Tone Customization:** Professional, casual, or friendly tone selection
+- **REST API Backend:** Spring Boot service with WebClient for async API calls
+- **Chrome Extension:** Manifest V3 with active tab permissions and storage
 ---
 
 ### 📊 GitHub Stats:
