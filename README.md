@@ -41,7 +41,7 @@
 
 ### 💻 My Projects:
 
-#### 🏋️ [Fitness Tracking Microservices Application](https://github.com/madhurihs/fitness-app-microservices)
+#### 🏋️ [Fitness Tracking Microservices Application](https://github.com/MADHURI-HS/fitness-app-microservices)
 A production-ready full-stack fitness tracking platform built with microservices architecture. Features AI-powered workout recommendations using Google Gemini API, user activity tracking, and personalized fitness insights.
 
 **🛠️ Tech Stack:**  
