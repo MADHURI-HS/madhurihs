@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Madhuri H S
 
-### Backend Software Engineer | Java · Python · Spring Boot · Building Scalable Systems
+### Backend Software Engineer | Java · MySQL · Spring Boot · Building Scalable Systems
 
 <p>
 Building scalable backend systems, REST APIs, and cloud-ready applications.
