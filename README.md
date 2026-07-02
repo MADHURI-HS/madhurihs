@@ -179,16 +179,6 @@ Attendance Dashboard
 
 ---
 
-### 🤖 DevFolio AI — RAG-based Chatbot
-**Applied GenAI project: multi-module Maven microservices RAG chatbot**
-
-**Tech Stack:** Spring Boot 3.2.5 · pgvector · OpenAI Embeddings
-
-- Structured as separate `ingestion-service`, `rag-service`, and `api-gateway` modules
-- **pgvector** for vector storage, **OpenAI embeddings** for semantic search
-
----
-
 ## 💼 Experience
 
 **Data Science Intern — Take It Smart (OPC) Pvt Ltd** · Feb 2026 – May 2026
