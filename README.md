@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhuri H S</h1>
-<h3 align="center">Backend Software Engineer | Java · Spring Boot · Building Scalable Systems</h3>
+<h3 align="center">Backend Software Engineer | Java · Python · Spring Boot · Building Scalable Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madhuri-h-s/" target="_blank">
@@ -31,6 +31,8 @@
 **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 **Backend:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white) Microservices · RESTful APIs
+
+**System Design:** Low-Level Design (LLD) · OOP Design Patterns (Singleton, Observer, Factory, etc.)
 
 **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) Vite
 
@@ -119,7 +121,7 @@ An applied GenAI project: a Retrieval-Augmented Generation chatbot built as a mu
 
 ### 🌟 Open Source
 
-- Contributor to [**java-design-patterns**](https://github.com/iluwatar/java-design-patterns)
+- Contributor to [**java-design-patterns**](https://github.com/iluwatar/java-design-patterns) — merged PRs improving Singleton and Observer pattern implementations and documentation
 
 ---
 
