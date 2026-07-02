@@ -485,24 +485,12 @@ Worked on real-world AI and Data Science projects while collaborating with mento
 
 # 📜 Certifications
 
-### 🎓 Take U Forward
-
-- Data Structures & Algorithms (Basic to Advanced)
-- Object-Oriented Programming
-
----
-
-### 🎓 NPTEL
-
-Programming in C++
-
-(IIT Kharagpur)
-
----
-
-### 🎓 freeCodeCamp
-
-Responsive Web Design
+- ☕ [Java Programming Masterclass](YOUR_UDEMY_CERTIFICATE_LINK) — Udemy
+- 🌱 [Spring Boot 3, Spring Framework 6 & Hibernate for Beginners](YOUR_UDEMY_CERTIFICATE_LINK) — Udemy
+- 📘 Data Structures & Algorithms (Basic to Advanced) — Take U Forward
+- 💡 Object-Oriented Programming — Take UForward
+- 💻 Programming in C++ — NPTEL (IIT Kharagpur)
+- 🌐 Responsive Web Design — freeCodeCamp
 
 ---
 
