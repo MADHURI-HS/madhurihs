@@ -19,11 +19,11 @@ Building scalable backend systems, REST APIs, and cloud-ready applications.
 
 ### About Me
 
-Backend Software Engineer with a background in **AI & Machine Learning** (BE, 2026, VTU — CGPA 8.76). I build scalable backend systems with **Java and Spring Boot**, and apply my AI/ML foundation to intelligent, data-driven features when a project calls for it.
+Backend Software Engineer with a BE in **AI & Machine Learning** (2026, VTU — CGPA 8.76). I build scalable backend systems with **Java and Spring Boot**, backed by a strong academic foundation in AI, ML, Deep Learning, GenAI, and Data Visualization — which I apply hands-on in projects (RAG pipelines, ML-based dashboards) and am equally comfortable deepening further where a role calls for it.
 
 - Data Science Intern @ **Take It Smart (OPC) Pvt Ltd** (Feb–May 2026) — received the **Best Performer** award
-- Seeking full-time **Software Engineer** roles in Java/Spring Boot backend development — open to GenAI/ML-adjacent roles too
 - Seeking full-time Software Engineer roles...
+- Bengaluru, Karnataka — **immediate joiner**
 - 200+ problems solved on LeetCode; currently working through Striver's SDE Sheet
 - Comfortable with **Low-Level Design (LLD) and OOP design patterns** — backed by real open-source contributions (see below)
 
@@ -43,7 +43,9 @@ Backend Software Engineer with a background in **AI & Machine Learning** (BE, 20
 
 **DevOps & Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) AWS (learning)
 
-**AI/ML Tooling:** RAG · LangChain · ChromaDB · OpenAI Embeddings
+**AI/ML Foundations:** Artificial Intelligence · Machine Learning · Deep Learning · Generative AI · Data Visualization — academic foundation from BE (AI & ML), applied hands-on in projects below; open to going deeper as needed
+
+**AI/ML Tooling (Applied):** RAG · LangChain · ChromaDB · OpenAI Embeddings
 
 **Core CS:** Operating Systems · Computer Networks · DBMS · Object-Oriented Programming
 
@@ -180,6 +182,16 @@ Attendance Dashboard
 
 ---
 
+### DevFolio AI — RAG-based Chatbot
+**Applied GenAI project: multi-module Maven microservices RAG chatbot**
+
+**Tech Stack:** Spring Boot 3.2.5 · pgvector · OpenAI Embeddings
+
+- Structured as separate `ingestion-service`, `rag-service`, and `api-gateway` modules
+- **pgvector** for vector storage, **OpenAI embeddings** for semantic search
+
+---
+
 ## Experience
 
 **Data Science Intern — Take It Smart (OPC) Pvt Ltd** · Feb 2026 – May 2026
@@ -223,13 +235,11 @@ Contributor to [**java-design-patterns**](https://github.com/iluwatar/java-desig
 
 ---
 
-## Contact Me
+## 📫 Contact Me
 
-**Email:** hsmadhuri7@gmail.com
-<br/>
-**LinkedIn:** https://www.linkedin.com/in/madhuri-h-s/
-<br/>
-**GitHub:** https://github.com/MADHURI-HS
+- 📧 **Email:** madhurihssahani07@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/madhuri-h-s/
+- 💻 **GitHub:** https://github.com/MADHURI-HS
 
 ---
 
