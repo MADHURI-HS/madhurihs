@@ -506,37 +506,11 @@ Responsive Web Design
 
 ---
 
-# 📖 Core Subjects
-
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- Design Patterns
-- SOLID Principles
-
----
-
 # 🌍 Open Source
 
 Currently exploring open-source contributions and continuously improving through personal projects and community learning.
 
 My goal is to actively contribute to Java, Spring Boot, and backend development projects.
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Crack a Software Engineer / Backend Developer role
-- ✅ Master Spring Boot Ecosystem
-- ✅ Learn Kubernetes
-- ✅ Learn AWS Cloud
-- ✅ Master System Design Fundamentals
-- ✅ Build 10+ Production Ready Projects
-- ✅ Contribute to Open Source
-- ✅ Strengthen Problem Solving Skills
 
 ---
 
@@ -687,23 +661,6 @@ Personal portfolio showcasing projects, skills and experience.
 </a>
 
 </div>
-
----
-
-# 💬 Ask Me About
-
-- Java
-- Spring Boot
-- REST APIs
-- Backend Development
-- PostgreSQL
-- Redis
-- Docker
-- Microservices
-- System Design (Learning)
-- DSA
-- OOP
-- DBMS
 
 ---
 
