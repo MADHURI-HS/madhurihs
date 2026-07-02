@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/madhuri-h-s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:madhuri.hs@example.com">
+  <a href="mailto:hsmadhuri7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MADHURI-HS" target="_blank">
@@ -110,8 +110,8 @@ An applied GenAI project: a Retrieval-Augmented Generation chatbot built as a mu
 
 ### 📜 Certifications
 
+- **Java + Spring Boot (Basics to Advanced)** — Udemy (Shrayansh Jain)
 - **AWS Cloud Practitioner** — Coursera (foundational/knowledge-level)
-- **Google Data Analytics Professional Certificate** — Coursera ([verify](https://coursera.org/verify/professional-cert/PKUC3SVA094D))
 - **NPTEL C++** — IIT Kharagpur
 - **Computer Networks + Operating Systems** — TakeUforward
 
