@@ -89,194 +89,23 @@ To become a **Software Engineer / Backend Developer** who builds reliable, scala
 ---
 # 🛠 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 💻 Languages
+Java • C++ • Python • JavaScript • SQL
 
-<p align="left">
+### ⚙️ Backend
+Spring Boot • REST APIs • Spring Data JPA • Hibernate • Microservices
 
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=c" height="50"/>
+### 🗄 Databases
+PostgreSQL • MySQL • MongoDB • Redis
 
-</p>
+### ☁️ DevOps & Cloud
+Docker • Git • GitHub • Render • AWS (Learning)
 
----
+### 🤖 AI / ML
+TensorFlow • OpenCV • Streamlit • Gemini API
 
-## ⚙️ Backend Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=spring" height="50"/>
-<img src="https://skillicons.dev/icons?i=hibernate" height="50"/>
-<img src="https://skillicons.dev/icons?i=maven" height="50"/>
-<img src="https://skillicons.dev/icons?i=gradle" height="50"/>
-
-</p>
-
-### Backend Skills
-
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate ORM
-- RESTful APIs
-- Dependency Injection
-- MVC Architecture
-- DTO Pattern
-- Exception Handling
-- Bean Validation
-- JWT Authentication *(Learning)*
-- Spring Security *(Learning)*
-- Microservices *(Learning)*
-
----
-
-## 🗄 Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-<img src="https://skillicons.dev/icons?i=redis" height="50"/>
-
-</p>
-
-### Database Skills
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- SQL
-- Database Design
-- Indexing Basics
-- Query Optimization Basics
-- Transactions
-- ACID Properties
-- Joins
-- Stored Procedures *(Basics)*
-
----
-
-## 🌐 Frontend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=vite" height="50"/>
-
-</p>
-
-### Frontend Skills
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- Vite
-- Material UI
-- Responsive Design
-
----
-
-## 🐳 DevOps & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=postman" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<img src="https://skillicons.dev/icons?i=idea" height="50"/>
-
-</p>
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- Postman
-- IntelliJ IDEA
-- VS Code
-- Maven
-- Render
-- GitHub Actions *(Basics)*
-
----
-
-## ☁️ Cloud & Deployment
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-
-</p>
-
-### Cloud Skills
-
-- Render Deployment
-- Docker Containers
-- AWS *(Learning)*
-- REST API Deployment
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="50"/>
-
-</p>
-
-### AI Skills
-
-- TensorFlow
-- Keras
-- OpenCV
-- Streamlit
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Gemini API Integration
-
----
-
-## 📚 Core Computer Science
-
-✔ Data Structures & Algorithms
-
-✔ Object-Oriented Programming (OOP)
-
-✔ Database Management Systems (DBMS)
-
-✔ Operating Systems
-
-✔ Computer Networks
-
-✔ Software Engineering
-
-✔ Design Patterns
-
-✔ SOLID Principles
-
-✔ REST API Design
-
-✔ JSON & API Integration
-
----
-
+### 📚 Core CS
+DSA • OOP • DBMS • Operating Systems • Computer Networks
 ## 🎯 Areas of Interest
 
 - Backend Engineering
