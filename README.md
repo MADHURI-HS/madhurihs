@@ -582,38 +582,6 @@ YOUR_GITHUB_LINK
 
 ---
 
-# 💼 Other Projects
-
-### 📌 Portfolio Website
-
-- Responsive Design
-- HTML
-- CSS
-- JavaScript
-
----
-
-### 📌 Lead Tracker Chrome Extension
-
-- Chrome Extension API
-- Local Storage
-- JavaScript
-- Productivity Tool
-
----
-
-# 📚 Currently Building
-
-- Spring Security Authentication
-- JWT Authentication
-- Kafka Integration
-- Kubernetes
-- AWS Deployment
-- Advanced Redis
-- System Design Projects
-
----
-
 # 💼 Experience
 
 ## 🚀 Data Science Intern
