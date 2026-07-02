@@ -623,58 +623,46 @@ Worked on real-world AI and Data Science projects while collaborating with mento
 
 ---
 
-# 🌱 Learning Journey
+# 🌱 My Learning Journey
 
-My learning roadmap focuses on becoming a well-rounded Backend Software Engineer.
+> Continuously learning, building, and improving as a Backend Software Engineer.
 
-### ✅ Completed
+```text
+Programming
+     ↓
+Computer Science Fundamentals
+     ↓
+Backend Development
+     ↓
+Microservices
+     ↓
+Cloud & System Design
+```
 
-- Java
-- C++
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-- React
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Maven
-- Git & GitHub
-- PostgreSQL
-- MySQL
-- Redis (Basics)
-- Docker (Basics)
+### 💻 Programming
 
----
+Java • C++ • Python • JavaScript • SQL
+
+### 📚 Computer Science Fundamentals
+
+Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+
+### ⚙️ Backend Development
+
+Spring Boot • REST APIs • Spring Data JPA • Hibernate • PostgreSQL • MySQL • Redis • Docker
+
+### 🏗️ Architecture
+
+Microservices • API Gateway • Eureka Service Discovery • Spring Cloud Config
 
 ### 🚀 Currently Learning
 
-- Spring Security
-- JWT Authentication
-- OAuth2
-- Microservices
-- Spring Cloud
-- API Gateway
-- Eureka Server
-- Kafka
-- Kubernetes
-- AWS
-- System Design
+- ☁️ Cloud Technologies (AWS)
+- 🏛️ System Design
 
----
+### 🎯 Goal
 
-### 🎯 Next Goals
-
-- Master Microservices Architecture
-- Learn Event-Driven Systems
-- Explore Distributed Databases
-- Build Large Scale Applications
-- Contribute to Open Source Projects
-
----
+Build scalable, cloud-native backend applications with clean architecture and modern engineering practices.
 
 # 📚 DSA Journey
 
