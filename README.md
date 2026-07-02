@@ -39,6 +39,8 @@ Building scalable backend systems, REST APIs, and cloud-ready applications.
 Hi, I'm **Madhuri H S**, a Backend Software Engineer with a background in **Artificial Intelligence & Machine Learning**. I enjoy building scalable backend applications using **Java** and **Spring Boot**, while leveraging my understanding of **AI, Generative AI, and Data Analytics** to develop intelligent software solutions.
 
 🏆 Recognized as the **Best Performer** during my internship for consistently delivering high-quality work and demonstrating a strong learning mindset.
+---
+
 
 I'm currently expanding my expertise in **Cloud Technologies** and **System Design** to build production-ready, cloud-native applications.
 ---
