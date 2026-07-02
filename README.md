@@ -11,7 +11,6 @@ Building scalable backend systems, REST APIs, and cloud-ready applications.
 <a href="https://github.com/MADHURI-HS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/madhuri-h-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:hsmadhuri7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
 
 </div>
@@ -236,7 +235,6 @@ Contributor to [**java-design-patterns**](https://github.com/iluwatar/java-desig
 
 📧 **Email:** hsmadhuri7@gmail.com
 💼 **LinkedIn:** https://www.linkedin.com/in/madhuri-h-s/
-🌐 **Portfolio:** YOUR_PORTFOLIO_URL
 🐙 **GitHub:** https://github.com/MADHURI-HS
 
 ---
