@@ -38,11 +38,13 @@ Building scalable backend systems, REST APIs, and cloud-ready applications.
 
 # 👩‍💻 About Me
 
-I'm **Madhuri H S**, a final-year **Artificial Intelligence & Machine Learning** undergraduate with a strong passion for **Backend Development**.
+Hi, I'm **Madhuri H S**, a final-year Artificial Intelligence & Machine Learning student passionate about Backend Development.
 
-I enjoy designing scalable applications, building RESTful APIs, optimizing databases, and solving challenging algorithmic problems.
+I enjoy building scalable backend applications using Java and Spring Boot while continuously improving my software engineering skills through real-world projects.
 
-Currently, I'm focused on mastering the **Java Backend Ecosystem** and building production-ready software using modern technologies.
+🏆 Recognized as the **Best Performer** during my internship for dedication, consistent performance, and delivering high-quality work.
+
+I'm currently expanding my expertise in **Cloud Technologies** and **System Design** to build scalable, production-ready applications.
 
 ---
 
@@ -451,51 +453,13 @@ Worked on real-world AI and Data Science projects while collaborating with mento
 
 ---
 
-# 🌱 My Learning Journey
-
-> Continuously learning, building, and improving as a Backend Software Engineer.
-
-```text
-Programming
-     ↓
-Computer Science Fundamentals
-     ↓
-Backend Development
-     ↓
-Microservices
-     ↓
-Cloud & System Design
-```
-
-### 💻 Programming
-
-Java • C++ • Python • JavaScript • SQL
-
-### 📚 Computer Science Fundamentals
-
-Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
-
-### ⚙️ Backend Development
-
-Spring Boot • REST APIs • Spring Data JPA • Hibernate • PostgreSQL • MySQL • Redis • Docker
-
-### 🏗️ Architecture
-
-Microservices • API Gateway • Eureka Service Discovery • Spring Cloud Config
-
-### 🚀 Currently Learning
+# 🌱 Currently Exploring
 
 - ☁️ Cloud Technologies (AWS)
-- 🏛️ System Design
+- 🏗️ System Design
+- 🌍 Open Source Contributions
 
-### 🎯 Goal
-
-Build scalable, cloud-native backend applications with clean architecture and modern engineering practices.
-
-# 📚 DSA Journey
-
-I enjoy solving algorithmic problems to strengthen problem-solving skills and write optimized code.
-
+> Passionate about building scalable, cloud-native backend applications with Java and Spring Boot.
 ### Topics Covered
 
 - Arrays
