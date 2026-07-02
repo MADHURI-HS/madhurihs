@@ -60,7 +60,7 @@ A production-hardened URL shortening service built and deployed end-to-end, from
 
 ---
 
-#### ✉️ [AI Email Writer](https://github.com/MADHURI-HS/email-writer-assistant)
+#### ✉️ [AI Email Writer](https://github.com/MADHURI-HS/email-assistance)
 A Chrome extension paired with a Spring Boot API that generates contextual, tone-aware email replies directly inside Gmail.
 
 **Tech Stack:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -72,7 +72,7 @@ A Chrome extension paired with a Spring Boot API that generates contextual, tone
 
 ---
 
-#### 🏋️ [Fitness Tracking Microservices Platform](https://github.com/MADHURI-HS/fitness-app-microservices)
+#### 🏋️ Fitness Tracking Microservices Platform *(repo pushing soon)*
 A full-stack fitness tracking platform built on a microservices architecture with event-driven communication and AI-powered recommendations.
 
 **Tech Stack:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -85,7 +85,7 @@ A full-stack fitness tracking platform built on a microservices architecture wit
 
 ---
 
-#### 📸 [Smart Attendance System with Face Recognition](https://github.com/MADHURI-HS/attendance-tracker)
+#### 📸 [Smart Attendance System with Face Recognition](https://github.com/MADHURI-HS/smart-attendance-system)
 A computer-vision-based attendance system with real-time face detection and an interactive analytics dashboard.
 
 **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -95,6 +95,16 @@ A computer-vision-based attendance system with real-time face detection and an i
 - Added duplicate-entry prevention logic and CSV export for attendance reports
 - Persisted data in **MySQL**, containerized with **Docker**
 
+---
+
+#### 🤖 DevFolio AI — RAG-based Chatbot (Multi-Module Microservices)
+An applied GenAI project: a Retrieval-Augmented Generation chatbot built as a multi-module Maven microservices system.
+
+**Tech Stack:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+- Structured as separate `ingestion-service`, `rag-service`, and `api-gateway` modules
+- Used **pgvector** for vector storage and **OpenAI embeddings** for semantic search
+- Built on **Spring Boot 3.2.5** with a clean service-separation architecture
 
 ---
 
