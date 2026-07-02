@@ -112,10 +112,8 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
 - Backend Engineering
 - Java Ecosystem
 - Spring Boot
-- Distributed Systems
-- REST APIs
+- Building scallable REST APIs
 - Microservices
-- Cloud Computing
 - Database Design
 - System Design
 - Software Architecture
@@ -438,47 +436,12 @@ Worked on real-world AI and Data Science projects while collaborating with mento
 
 ---
 
-# 🏆 Achievements
+# 🚀 Developer Highlights
 
-🥇 Best Performer Award during Internship
+- 🏆 Best Performer during Internship.
+- 💻 Built production-ready backend applications using Java & Spring Boot & AI Integration.
+- 🧩 Solved **200+ LeetCode** problems in Data Structures & Algorithms.
 
-💻 Built multiple production-ready backend applications using Spring Boot.
-
-🚀 Successfully deployed full-stack applications on Render.
-
-📚 Completed extensive learning in Data Structures & Algorithms.
-
-🧠 Strong understanding of Object-Oriented Programming and Database Design.
-
----
-
-# 🌱 Currently Exploring
-
-- ☁️ Cloud Technologies (AWS)
-- 🏗️ System Design
-- 🌍 Open Source Contributions
-
-> Passionate about building scalable, cloud-native backend applications with Java and Spring Boot.
-### Topics Covered
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search Trees
-- Heaps
-- Hashing
-- Recursion
-- Backtracking
-- Dynamic Programming
-- Graphs
-- Tries
-- Sliding Window
-- Two Pointers
-- Binary Search
-- Greedy Algorithms
 
 ---
 
@@ -593,32 +556,6 @@ Face Recognition Attendance System using YOLOv8, FaceNet and Streamlit.
 ⭐ Portfolio Website
 
 Personal portfolio showcasing projects, skills and experience.
-
----
-
-# 📖 What You'll Find On My GitHub
-
-✔ Production Ready Projects
-
-✔ Backend Development
-
-✔ Spring Boot Applications
-
-✔ REST APIs
-
-✔ Microservices
-
-✔ Docker Projects
-
-✔ PostgreSQL
-
-✔ Redis
-
-✔ AI Applications
-
-✔ Clean Code Practices
-
-✔ Learning Resources
 
 ---
 
@@ -759,18 +696,6 @@ Here are some repositories I'm particularly proud of:
 </td>
 </tr>
 </table>
-
----
-
-# 📖 Current Reading & Learning
-
-- Spring Security
-- Microservices Patterns
-- Designing REST APIs
-- System Design Fundamentals
-- Docker Best Practices
-- Kubernetes Basics
-- AWS for Developers
 
 ---
 
