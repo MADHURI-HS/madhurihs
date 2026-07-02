@@ -129,8 +129,6 @@ An applied GenAI project: a Retrieval-Augmented Generation chatbot built as a mu
 
 <div align="center">
 
-![Madhuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MADHURI-HS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHURI-HS&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MADHURI-HS&theme=radical)
 
 </div>
