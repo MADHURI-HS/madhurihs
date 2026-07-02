@@ -17,19 +17,19 @@ Building scalable backend systems, REST APIs, and cloud-ready applications.
 
 ---
 
-### 💫 About Me
+### About Me
 
 Backend Software Engineer with a background in **AI & Machine Learning** (BE, 2026, VTU — CGPA 8.76). I build scalable backend systems with **Java and Spring Boot**, and apply my AI/ML foundation to intelligent, data-driven features when a project calls for it.
 
-- 💼 Data Science Intern @ **Take It Smart (OPC) Pvt Ltd** (Feb–May 2026) — received the **Best Performer** award
-- 🎯 Seeking full-time **Software Engineer** roles in Java/Spring Boot backend development — open to GenAI/ML-adjacent roles too
-- 📍 Bengaluru, Karnataka — **immediate joiner**
-- 🧩 200+ problems solved on LeetCode; currently working through Striver's SDE Sheet
-- 🏗️ Comfortable with **Low-Level Design (LLD) and OOP design patterns** — backed by real open-source contributions (see below)
+- Data Science Intern @ **Take It Smart (OPC) Pvt Ltd** (Feb–May 2026) — received the **Best Performer** award
+- Seeking full-time **Software Engineer** roles in Java/Spring Boot backend development — open to GenAI/ML-adjacent roles too
+- Bengaluru, Karnataka — **immediate joiner**
+- 200+ problems solved on LeetCode; currently working through Striver's SDE Sheet
+- Comfortable with **Low-Level Design (LLD) and OOP design patterns** — backed by real open-source contributions (see below)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
@@ -49,9 +49,9 @@ Backend Software Engineer with a background in **AI & Machine Learning** (BE, 20
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔗 URL Shortener
+### URL Shortener
 **Production-ready URL shortening service — live and deployed**
 
 A scalable URL shortener converting long URLs into compact Base62-encoded links, with persistent storage, Redis caching, rate limiting, and a Dockerized deployment.
@@ -81,13 +81,13 @@ A scalable URL shortener converting long URLs into compact Base62-encoded links,
 - Full production hardening pass: scrubbed leaked credentials from git history, resolved environment config issues
 - Containerized with Docker, deployed live on Render
 
-🔗 **Repo:** https://github.com/MADHURI-HS/url-shortener
+**Repo:** https://github.com/MADHURI-HS/url-shortener
 <br/>
-🌐 **Live Demo:** https://url-shortener-9iuz.onrender.com
+**Live Demo:** https://url-shortener-9iuz.onrender.com
 
 ---
 
-### ✉️ AI Email Reply Generator
+### AI Email Reply Generator
 **AI-powered email reply assistant — Chrome Extension + Spring Boot API**
 
 A monorepo containing both frontend and backend, generating contextual, tone-aware email replies directly inside Gmail using Google's Gemini API.
@@ -113,11 +113,11 @@ Spring Boot API (WebFlux)
 - **CI/CD pipeline with GitHub Actions**, including a custom Dockerfile and test config to handle API-key requirements in CI
 - Tone customization: professional, casual, or friendly replies
 
-🔗 **Repo:** https://github.com/MADHURI-HS/email-assistance
+**Repo:** https://github.com/MADHURI-HS/email-assistance
 
 ---
 
-### 🏋️ Fitness Tracking Microservices Platform *(in progress — repo pushing soon)*
+### Fitness Tracking Microservices Platform *(in progress — repo pushing soon)*
 **Microservices-based fitness tracking platform with AI-powered recommendations**
 
 **Tech Stack:** Spring Boot · Spring Cloud · Eureka · API Gateway · RabbitMQ · Keycloak OAuth2 · React · PostgreSQL · Docker
@@ -146,7 +146,7 @@ Spring Boot API (WebFlux)
 
 ---
 
-### 🎓 Smart Attendance System
+### Smart Attendance System
 **AI-powered face recognition attendance system**
 
 **Tech Stack:** Python · OpenCV · YOLOv8 · FaceNet · Streamlit · SQLite
@@ -175,11 +175,21 @@ Attendance Dashboard
 - Interactive **Streamlit** dashboard with live analytics
 - Duplicate-entry prevention and CSV export for attendance reports
 
-🔗 **Repo:** https://github.com/MADHURI-HS/smart-attendance-system
+**Repo:** https://github.com/MADHURI-HS/smart-attendance-system
 
 ---
 
-## 💼 Experience
+### DevFolio AI — RAG-based Chatbot
+**Applied GenAI project: multi-module Maven microservices RAG chatbot**
+
+**Tech Stack:** Spring Boot 3.2.5 · pgvector · OpenAI Embeddings
+
+- Structured as separate `ingestion-service`, `rag-service`, and `api-gateway` modules
+- **pgvector** for vector storage, **OpenAI embeddings** for semantic search
+
+---
+
+## Experience
 
 **Data Science Intern — Take It Smart (OPC) Pvt Ltd** · Feb 2026 – May 2026
 
@@ -187,28 +197,28 @@ Attendance Dashboard
 - Performed data preprocessing and feature engineering
 - Developed interactive dashboards for data visualization (Python: Pandas, NumPy, Matplotlib)
 - Collaborated on AI-based applications and automation tasks
-- 🏆 Received the **Best Performer** award
+- Received the **Best Performer** award
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- ☕ **Java + Spring Boot (Basics to Advanced)** — Udemy (Shrayansh Jain)
-- ☁️ **AWS Cloud Practitioner** — Coursera (foundational/knowledge-level)
-- 📘 **Data Structures & Algorithms** — TakeUforward
-- 💡 **Object-Oriented Programming** — TakeUforward
-- 🌐 **Computer Networks + Operating Systems** — TakeUforward
-- 💻 **Programming in C++** — NPTEL (IIT Kharagpur)
+- **Java + Spring Boot (Basics to Advanced)** — Udemy (Shrayansh Jain)
+- **AWS Cloud Practitioner** — Coursera (foundational/knowledge-level)
+- **Data Structures & Algorithms** — TakeUforward
+- **Object-Oriented Programming** — TakeUforward
+- **Computer Networks + Operating Systems** — TakeUforward
+- **Programming in C++** — NPTEL (IIT Kharagpur)
 
 ---
 
-## 🌟 Open Source
+## Open Source
 
 Contributor to [**java-design-patterns**](https://github.com/iluwatar/java-design-patterns) — merged PRs improving Singleton and Observer pattern implementations and documentation.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -222,18 +232,18 @@ Contributor to [**java-design-patterns**](https://github.com/iluwatar/java-desig
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-📧 **Email:** hsmadhuri7@gmail.com
+**Email:** hsmadhuri7@gmail.com
 <br/>
-💼 **LinkedIn:** https://www.linkedin.com/in/madhuri-h-s/
+**LinkedIn:** https://www.linkedin.com/in/madhuri-h-s/
 <br/>
-🐙 **GitHub:** https://github.com/MADHURI-HS
+**GitHub:** https://github.com/MADHURI-HS
 
 ---
 
 <div align="center">
 
-*"Code. Learn. Build. Repeat."* 🚀
+*"Code. Learn. Build. Repeat."*
 
 </div>
