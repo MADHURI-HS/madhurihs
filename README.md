@@ -149,43 +149,34 @@ Spring Boot API (WebFlux)
 ### Smart Attendance System
 **AI-powered face recognition attendance system**
 
-**Tech Stack:** Python · OpenCV · YOLOv8 · FaceNet · Streamlit · SQLite
+**Tech Stack:** Python · OpenCV · Streamlit · MySQL
 
 ```text
 Camera
    │
    ▼
-YOLOv8 Detection
+OpenCV Face Detection
    │
    ▼
-FaceNet Recognition
+Face Recognition
    │
    ▼
 Duplicate Check
    │
    ▼
-SQLite Database
+MySQL Database
    │
    ▼
 Attendance Dashboard
 ```
 
 **Highlights:**
-- Real-time face detection (YOLOv8) and recognition (FaceNet embeddings)
-- Interactive **Streamlit** dashboard with live analytics
-- Duplicate-entry prevention and CSV export for attendance reports
+- Real-time face detection and recognition using **OpenCV**
+- Interactive **Streamlit** dashboard with attendance history and student records
+- Duplicate-entry prevention — attendance marked only once per student per day
+- Structured backend with dedicated modules for recognition, database operations, and configuration
 
 **Repo:** https://github.com/MADHURI-HS/smart-attendance-system
-
----
-
-### DevFolio AI — RAG-based Chatbot
-**Applied GenAI project: multi-module Maven microservices RAG chatbot**
-
-**Tech Stack:** Spring Boot 3.2.5 · pgvector · OpenAI Embeddings
-
-- Structured as separate `ingestion-service`, `rag-service`, and `api-gateway` modules
-- **pgvector** for vector storage, **OpenAI embeddings** for semantic search
 
 ---
 
