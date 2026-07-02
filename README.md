@@ -82,7 +82,6 @@ To become a **Software Engineer / Backend Developer** who builds reliable, scala
 - Distributed Systems
 - REST APIs
 - System Design
-- Cloud Computing
 - Databases
 - Open Source
 - Software Architecture
@@ -976,59 +975,6 @@ Here are some repositories I'm particularly proud of:
 | 🏋️ Fitness Tracking Microservices | Spring Boot Microservices with Eureka, API Gateway, PostgreSQL & Docker *(In Progress)* |
 | 🎓 Smart Attendance System | AI-powered attendance system using YOLOv8, FaceNet, OpenCV & Streamlit |
 | 🌐 Portfolio Website | Personal portfolio showcasing projects and skills |
-
----
-
-# 🗺️ 2026 Learning Roadmap
-
-## ✅ Backend
-
-- Spring Boot ✔
-- Spring Data JPA ✔
-- Hibernate ✔
-- REST APIs ✔
-- Spring Security 🚧
-- JWT 🚧
-- OAuth2 🚧
-- Microservices 🚧
-
----
-
-## ✅ Databases
-
-- PostgreSQL ✔
-- MySQL ✔
-- Redis ✔
-- MongoDB ✔
-
----
-
-## ✅ DevOps
-
-- Git ✔
-- GitHub ✔
-- Docker ✔
-- Docker Compose 🚧
-- GitHub Actions 🚧
-
----
-
-## ✅ Cloud
-
-- Render ✔
-- AWS 🚧
-- Kubernetes 🚧
-
----
-
-## ✅ Computer Science
-
-- DSA ✔
-- OOP ✔
-- DBMS ✔
-- Operating Systems ✔
-- Computer Networks ✔
-- System Design 🚧
 
 ---
 
