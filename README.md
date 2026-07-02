@@ -1,128 +1,138 @@
 <h1 align="center">Hi 👋, I'm Madhuri H S</h1>
-<h3 align="center">A passionate Backend Developer & Software Engineer</h3>
+<h3 align="center">Backend Software Engineer | Java · Spring Boot · Building Scalable Systems</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhuri-h-s/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:madhuri.hs@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MADHURI-HS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💫 About Me:
-- 🔭 I’m currently working on **backend and full-stack development projects**
-- 🌱 I’m learning **Spring Boot, React, and advanced DSA**
-- 🎯 Goal: To secure an **internship or full-time Software Developer role**
-- ⚡ Fun fact: I enjoy solving challenging problems and building scalable systems!
+### 💫 About Me
+
+- 🎓 BE in **AI & Machine Learning** (2026), Vijaya Vittala Institute of Technology, VTU — **CGPA 8.76**
+- 💼 Data Science Intern @ **Take It Smart (OPC) Pvt Ltd** (Feb–May 2026) — received the **Best Performer** award
+- 🎯 Seeking full-time **Software Engineer** roles in **Java / Spring Boot backend development**, with openness to GenAI/ML-adjacent positions
+- 📍 Based in Bengaluru, Karnataka — **immediate joiner**
+- 🧩 Solved 200+ problems on LeetCode; currently working through Striver's SDE Sheet
+- 🌱 Continuously building — from REST APIs to microservices to applied GenAI (RAG pipelines)
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Skills & Tech Stack
+
+**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**Backend:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white) Microservices · RESTful APIs
+
+**Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) Vite
+
+**Databases & Caching:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Postman
+
+**AI/ML Tooling:** RAG · LangChain · ChromaDB · OpenAI Embeddings
+
+**Core CS Subjects:** Operating Systems · Computer Networks · DBMS · Object-Oriented Programming
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔗 [URL Shortener](https://github.com/MADHURI-HS/url-shortener) — [Live Demo](https://url-shortener-9iuz.onrender.com)
+A production-hardened URL shortening service built and deployed end-to-end, from Base62 encoding logic to rate-limited public deployment.
+
+**Tech Stack:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- Built REST APIs for URL shortening using **Base62 encoding**, backed by **PostgreSQL** with JPA
+- Implemented **Redis caching (Upstash)** to reduce database reads on high-frequency lookups
+- Added **API rate limiting with Bucket4j** to protect against abuse
+- Configured **Spring Profiles** for clean dev/prod environment separation
+- Containerized with **Docker** and deployed live on **Render**
+- Performed a full production hardening pass: scrubbed leaked credentials from git history, resolved environment-specific config issues
+
+---
+
+#### ✉️ [AI Email Writer](https://github.com/MADHURI-HS/email-writer-assistant)
+A Chrome extension paired with a Spring Boot API that generates contextual, tone-aware email replies directly inside Gmail.
+
+**Tech Stack:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+- Built a **Spring WebFlux**-based backend for non-blocking, async API calls to the Gemini API
+- Developed a **React (Vite)** frontend and a Chrome Extension (Manifest V3) that injects directly into Gmail
+- Set up a **CI/CD pipeline with GitHub Actions**, including a custom Dockerfile and test configuration to handle API-key requirements in CI
+- Supports tone customization (professional, casual, friendly) for generated replies
+
+---
+
+#### 🏋️ [Fitness Tracking Microservices Platform](https://github.com/MADHURI-HS/fitness-app-microservices)
+A full-stack fitness tracking platform built on a microservices architecture with event-driven communication and AI-powered recommendations.
+
+**Tech Stack:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+- Designed a microservices architecture with **service discovery (Eureka)** and centralized configuration
+- Used **RabbitMQ** for asynchronous, event-driven activity processing
+- Integrated **Keycloak OAuth2** for secure authentication
+- Connected the **Gemini API** to generate personalized workout recommendations
+- Built the frontend with **React** and Redux Toolkit
+
+---
+
+#### 📸 [Smart Attendance System with Face Recognition](https://github.com/MADHURI-HS/attendance-tracker)
+A computer-vision-based attendance system with real-time face detection and an interactive analytics dashboard.
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- Implemented real-time face detection and recognition using **OpenCV**
+- Built an interactive **Streamlit** dashboard with live camera feed and attendance analytics
+- Added duplicate-entry prevention logic and CSV export for attendance reports
+- Persisted data in **MySQL**, containerized with **Docker**
+
+---
+
+#### 🤖 DevFolio AI — RAG-based Chatbot (Multi-Module Microservices)
+An applied GenAI project: a Retrieval-Augmented Generation chatbot built as a multi-module Maven microservices system.
+
+**Tech Stack:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+- Structured as separate `ingestion-service`, `rag-service`, and `api-gateway` modules
+- Used **pgvector** for vector storage and **OpenAI embeddings** for semantic search
+- Built on **Spring Boot 3.2.5** with a clean service-separation architecture
+
+---
+
+### 📜 Certifications
+
+- **AWS Cloud Practitioner** — Coursera (foundational/knowledge-level)
+- **Google Data Analytics Professional Certificate** — Coursera ([verify](https://coursera.org/verify/professional-cert/PKUC3SVA094D))
+- **NPTEL C++** — IIT Kharagpur
+- **Computer Networks + Operating Systems** — TakeUforward
+
+---
+
+### 🌟 Open Source
+
+- Contributor to [**java-design-patterns**](https://github.com/iluwatar/java-design-patterns)
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+![Madhuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MADHURI-HS&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHURI-HS&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MADHURI-HS&theme=radical)
 
 </div>
 
 ---
 
-### 🧠 Core Subjects:
-- Operating Systems  
-- Computer Networks  
-- DBMS  
-- Object-Oriented Programming  
-
----
-
-
-### 💻 My Projects:
-
-#### 🏋️ [Fitness Tracking Microservices Application](https://github.com/MADHURI-HS/fitness-app-microservices)
-A production-ready full-stack fitness tracking platform built with microservices architecture. Features AI-powered workout recommendations using Google Gemini API, user activity tracking, and personalized fitness insights.
-
-**🛠️ Tech Stack:**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2.0-3C873A?style=flat-square&logo=auth0&logoColor=white)
-
-**✨ Key Features:**
-- **Microservices Architecture:** Service discovery with Eureka, centralized configuration, and API Gateway
-- **AI Integration:** Google Gemini API for personalized workout recommendations
-- **Event-Driven:** Asynchronous messaging with RabbitMQ for real-time activity processing
-- **Secure Authentication:** OAuth2/PKCE implementation with Keycloak
-- **Modern Frontend:** React with Redux Toolkit and Material-UI
-
----
-
-#### 📸 [Smart Attendance System with Face Recognition](https://github.com/madhurihs/attendance-tracker)
-An intelligent attendance management system using computer vision and facial recognition. Built with Streamlit for real-time face detection and MySQL for persistent data storage.
-
-**🛠️ Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-**✨ Key Features:**
-- **Real-Time Face Detection:** OpenCV-based facial recognition for instant attendance marking
-- **Interactive Dashboard:** Streamlit-powered UI with live camera feed and attendance analytics
-- **Smart Duplicate Prevention:** Automatic detection to prevent duplicate attendance entries
-- **Data Export:** CSV download functionality for attendance reports
-- **Student Management:** Registration system with image upload and database integration
-
----
-
-#### ✉️ [AI Email Writer Chrome Extension](https://github.com/madhurihs/email-writer-assistant)
-A Chrome extension and Spring Boot API that generates contextual email replies using AI. Integrates directly with Gmail to provide instant, tone-aware email responses powered by Google Gemini.
-
-**🛠️ Tech Stack:**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Chrome](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
-
-**✨ Key Features:**
-- **Gmail Integration:** Content script injects directly into Gmail interface
-- **AI-Powered Responses:** Google Gemini API generates contextually appropriate replies
-- **Tone Customization:** Professional, casual, or friendly tone selection
-- **REST API Backend:** Spring Boot service with WebClient for async API calls
-- **Chrome Extension:** Manifest V3 with active tab permissions and storage
----
-
-### 📊 GitHub Stats:
-<div align="center">
-
-![Madhuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhurihs&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurihs&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhurihs&theme=radical)
-
-</div>
-
----
-
-### 🌐 Connect with me:
-<div align="center">
-
-<a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:yourmail@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href=["https://github.com/madhurihs"](https://github.com/)>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-⭐️ *“Code. Learn. Repeat.”* 🚀  
+<p align="center"><i>"Code. Learn. Repeat."</i> 🚀</p>
