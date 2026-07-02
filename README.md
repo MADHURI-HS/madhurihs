@@ -11,7 +11,7 @@ Building scalable backend systems, REST APIs, and cloud-ready applications.
 <a href="https://github.com/MADHURI-HS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/madhuri-h-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:hsmadhuri7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="https://leetcode.com/u/MADHURIHS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
 
 </div>
 
@@ -82,6 +82,7 @@ A scalable URL shortener converting long URLs into compact Base62-encoded links,
 - Containerized with Docker, deployed live on Render
 
 🔗 **Repo:** https://github.com/MADHURI-HS/url-shortener
+<br/>
 🌐 **Live Demo:** https://url-shortener-9iuz.onrender.com
 
 ---
@@ -178,6 +179,16 @@ Attendance Dashboard
 
 ---
 
+### 🤖 DevFolio AI — RAG-based Chatbot
+**Applied GenAI project: multi-module Maven microservices RAG chatbot**
+
+**Tech Stack:** Spring Boot 3.2.5 · pgvector · OpenAI Embeddings
+
+- Structured as separate `ingestion-service`, `rag-service`, and `api-gateway` modules
+- **pgvector** for vector storage, **OpenAI embeddings** for semantic search
+
+---
+
 ## 💼 Experience
 
 **Data Science Intern — Take It Smart (OPC) Pvt Ltd** · Feb 2026 – May 2026
@@ -224,7 +235,9 @@ Contributor to [**java-design-patterns**](https://github.com/iluwatar/java-desig
 ## 📫 Contact Me
 
 📧 **Email:** hsmadhuri7@gmail.com
+<br/>
 💼 **LinkedIn:** https://www.linkedin.com/in/madhuri-h-s/
+<br/>
 🐙 **GitHub:** https://github.com/MADHURI-HS
 
 ---
