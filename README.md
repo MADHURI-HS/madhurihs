@@ -23,7 +23,7 @@ Backend Software Engineer with a background in **AI & Machine Learning** (BE, 20
 
 - Data Science Intern @ **Take It Smart (OPC) Pvt Ltd** (Feb–May 2026) — received the **Best Performer** award
 - Seeking full-time **Software Engineer** roles in Java/Spring Boot backend development — open to GenAI/ML-adjacent roles too
-- Bengaluru, Karnataka — **immediate joiner**
+- Seeking full-time Software Engineer roles...
 - 200+ problems solved on LeetCode; currently working through Striver's SDE Sheet
 - Comfortable with **Low-Level Design (LLD) and OOP design patterns** — backed by real open-source contributions (see below)
 
@@ -117,7 +117,7 @@ Spring Boot API (WebFlux)
 
 ---
 
-### Fitness Tracking Microservices Platform *(in progress — repo pushing soon)*
+### Fitness Tracking Microservices Platform *(in progress — Repository will be published soon.)*
 **Microservices-based fitness tracking platform with AI-powered recommendations**
 
 **Tech Stack:** Spring Boot · Spring Cloud · Eureka · API Gateway · RabbitMQ · Keycloak OAuth2 · React · PostgreSQL · Docker
