@@ -95,16 +95,6 @@ A computer-vision-based attendance system with real-time face detection and an i
 - Added duplicate-entry prevention logic and CSV export for attendance reports
 - Persisted data in **MySQL**, containerized with **Docker**
 
----
-
-#### 🤖 DevFolio AI — RAG-based Chatbot (Multi-Module Microservices)
-An applied GenAI project: a Retrieval-Augmented Generation chatbot built as a multi-module Maven microservices system.
-
-**Tech Stack:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-- Structured as separate `ingestion-service`, `rag-service`, and `api-gateway` modules
-- Used **pgvector** for vector storage and **OpenAI embeddings** for semantic search
-- Built on **Spring Boot 3.2.5** with a clean service-separation architecture
 
 ---
 
